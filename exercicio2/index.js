@@ -1,0 +1,1 @@
+console.log("Samantha Coltris", "Idade:", 23)
